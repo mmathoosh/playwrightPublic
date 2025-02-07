@@ -18,7 +18,7 @@ This repository aims to provide a centralized location for information about our
 
 To get started, clone this repository to your local machine:
 
-git clone https://github.com/yourusername/testing-framework-info.git
+git clone <https://github.com/mmathoosh/playwrightPublic.git>
 
 ## Basic Rules
 **Be Respectful:** Treat all contributions and discussions with respect. Everyone's input is valuable.  
