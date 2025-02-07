@@ -1,0 +1,23 @@
+{
+  "name": "playwrightpublic",
+  "version": "1.0.0",
+  "description": "Welcome to the Testing Framework Information Repository! This repository is dedicated to gathering and sharing knowledge about Playwright and related Frameworks. \r It serves as a collaborative space for all team members to contribute insights, best practices, and resources related to testing.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/mmathoosh/playwrightPublic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mmathoosh/playwrightPublic/issues"
+  },
+  "homepage": "https://github.com/mmathoosh/playwrightPublic#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.1"
+  }
+}
