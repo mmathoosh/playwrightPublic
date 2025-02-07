@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mmathoosh/playwrightPublic.git"
+    "url": "git+ssh://github.com/mmathoosh/playwrightPublic.git"
   },
   "keywords": [],
   "author": "",
